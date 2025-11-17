@@ -1,0 +1,6 @@
+My name : Mohammed
+Age = 33
+My name : salam
+Age = 50
+My name : salam
+Age = 50
